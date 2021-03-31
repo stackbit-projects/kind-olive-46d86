@@ -141,3 +141,4 @@ exclude:
   - netlify.toml
   - stackbit-build.sh
   - stackbit-pull.js
+domain: 'https://kind-olive-46d86.netlify.app'
